@@ -7,3 +7,5 @@ address = 'Arendelle'
 puts name
 puts age
 puts address
+
+puts name, age, address
